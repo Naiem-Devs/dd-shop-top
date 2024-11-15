@@ -1,0 +1,24 @@
+<svg id="Group_131" data-name="Group 131" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="73.333" height="73.333" viewBox="0 0 73.333 73.333">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="73.333" height="73.333" fill="none" stroke="#fabd5d" stroke-width="2.5"/>
+    </clipPath>
+  </defs>
+  <g id="Group_128" data-name="Group 128" transform="translate(0 0)">
+    <g id="Group_127" data-name="Group 127" clip-path="url(#clip-path)">
+      <path id="Path_20" data-name="Path 20" d="M65.924,19.779l6.445-6.445,6.445,6.445M98.151,39.115,104.74,45.7V83.8H78.815m-12.891,0H40V45.7l6.589-6.588" transform="translate(-35.703 -11.902)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <line id="Line_1" data-name="Line 1" x2="18.667" y2="18.667" transform="translate(4.679 34.184)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <line id="Line_2" data-name="Line 2" x1="18.632" y2="18.632" transform="translate(49.987 34.22)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    </g>
+  </g>
+  <path id="Path_21" data-name="Path 21" d="M152.9,105.7V73.334H101.333V105.7" transform="translate(-90.448 -65.456)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <g id="Group_130" data-name="Group 130" transform="translate(0 0)">
+    <g id="Group_129" data-name="Group 129" clip-path="url(#clip-path)">
+      <path id="Path_22" data-name="Path 22" d="M40,400.37,72.37,368l32.37,32.37" transform="translate(-35.703 -328.469)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <line id="Line_3" data-name="Line 3" transform="translate(36.667 71.901)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    </g>
+  </g>
+  <line id="Line_4" data-name="Line 4" x2="25.877" transform="translate(23.728 15.898)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <line id="Line_5" data-name="Line 5" x2="25.877" transform="translate(23.728 23.919)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  <line id="Line_6" data-name="Line 6" x2="15.182" transform="translate(29.076 31.94)" fill="none" stroke="#fabd5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+</svg>

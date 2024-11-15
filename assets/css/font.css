@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Another-Danger-Demo';
+    src: url('../font/Another-Danger-Demo.otf') format('woff2'),
+        url('../font/Another-Danger-Demo.otf') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Monument Extended';
+    src: url('../font/MonumentExtended-Ultrabold.woff2') format('woff2'),
+        url('../font/MonumentExtended-Ultrabold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Strengthen';
+    src: url('../font/Strengthen-Regular.woff2') format('woff2'),
+        url('../font/Strengthen-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Therace';
+    src: url('../font/Therace.woff2') format('woff2'),
+        url('../font/Therace.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MomsTypewriter';
+    src: url('../font/MomsTypewriter.woff2') format('woff2'),
+        url('../font/MomsTypewriter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
